@@ -1,0 +1,3 @@
+Authors: Haoming Zhang, Ying Duan
+TestSuite class should import apache http package, so we do not include it in Makefile
+It should compile manually.
